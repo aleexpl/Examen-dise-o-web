@@ -1,0 +1,10 @@
+li{
+	display: inlin-block;
+	border: 2px solid black;
+	color: white;
+}
+
+img{
+	height: 170px;
+	width: 170px;
+}
