@@ -1,10 +1,33 @@
+h1 {
+	margin-left: 50%;
+	color: blue;
+	font-size: 60px;
+}
+
 li{
-	display: inlin-block;
-	border: 2px solid black;
-	color: white;
+	margin-left: 50%;
+	display: inline-block;
 }
 
 img{
-	height: 170px;
-	width: 170px;
+	margin-left: 20%;
+}
+
+h4{
+	margin-left: 200px;
+	font-size: 20px;
+}
+
+h5{
+	margin-left: 200px;
+	font-size: 20px;
+}
+
+h6{
+	margin-left: 200px;
+	font-size: 20px;
+}
+
+p{
+	margin-left: 200px;
 }
